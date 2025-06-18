@@ -1,0 +1,11 @@
+@TechRacingF1.WebApi_HostAddress = http://localhost:5225
+
+GET {{TechRacingF1.WebApi_HostAddress}}/api/simulations
+Accept: application/json
+
+###
+
+GET {{TechRacingF1.WebApi_HostAddress}}/simulations/1
+Accept: application/json
+
+###
