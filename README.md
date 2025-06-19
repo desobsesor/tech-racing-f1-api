@@ -2,7 +2,7 @@
 # Tech Racing F1 API 🏎️
 
 <p align="center">
-  <img src="src/TechRacingF1.WebApi/Assets/Images/bg-min.jpeg" alt="Logo" >
+  <img src="src/TechRacingF1.WebApi/Assets/images/bg-min.jpeg" alt="Logo" >
 </p>
 
   <p align="center">Technologies used.</p>
@@ -71,7 +71,7 @@ Exposes the application's functionality through a REST API. Handles HTTP request
 Below is our database schema diagram showing the relationships between tables:
 
 <p align="center">
-  <img src="src/TechRacingF1.WebApi/Assets/Images/er-TechRacingF1-min.png" alt="Database Schema" width="700"/>
+  <img src="src/TechRacingF1.WebApi/Assets/images/er-TechRacingF1-min.png" alt="Database Schema" width="700"/>
 </p>
 
 ## SQL Scripts 💡
